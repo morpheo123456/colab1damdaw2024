@@ -48,6 +48,8 @@ public class Alumnos {
 
     public void IsmailTbatout() {}
 
-    public void IreneTiradoMontesinos() {}
+    public void IreneTiradoMontesinos() {
+        System.out.println("¡Ánimo que ya queda poco!");
+    }
 }
 
