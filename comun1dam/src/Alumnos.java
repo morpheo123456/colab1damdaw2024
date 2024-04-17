@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Alumnos {
 
     public void HugoBravoCuesta() {}
@@ -46,7 +48,14 @@ public class Alumnos {
 
     public void JavierSorianoMoreno() {}
 
-    public void IsmailTbatout() {}
+    Scanner sca = new Scanner (System.in);
+    public void IsmailTbatout() {
+        System.out.println("ingresa tu nombre");
+        String nombre = sca.nextLine();
+        System.out.println("ingresa un numero");
+        int numero = sca.nextInt();
+        System.out.println(nombre + "!! Hoy va a ser un dia feliz y vas a encontrar " + numero + " euros en la calle. Estate atento!!");
+    }
 
     public void IreneTiradoMontesinos() {}
 }
