@@ -28,7 +28,9 @@ public class Alumnos {
 
     public void JesusJimenezPozo() {}
 
-    public void LuciaLaraRojas() {}
+    public void LuciaLaraRojas() {
+        System.out.println("Lucia Lara Rojas");
+    }
 
     public void ManuelLosaBarrios() {}
 
