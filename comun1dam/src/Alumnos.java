@@ -14,7 +14,9 @@ public class Alumnos {
 
     public void ZufarSharipzianov() {}
 
-    public void PabloZafraJimenez() {}
+    public void PabloZafraJimenez() {
+        System.out.println("Soy Pablo Zafra, o simplemente, Zafra."); 
+    }
 
     public void JesusFernandezJimenez() {}
 
