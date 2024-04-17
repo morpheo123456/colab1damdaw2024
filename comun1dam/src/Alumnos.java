@@ -24,7 +24,9 @@ public class Alumnos {
 
     public void RomenGuerraEspínola() {}
 
-    public void GuillemHidalgoMoleon() {}
+    public void GuillemHidalgoMoleon() {
+        System.out.println("Hola soy Guillem Y estoy aqui");
+    }
 
     public void JesusJimenezPozo() {}
 
