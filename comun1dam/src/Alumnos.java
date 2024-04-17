@@ -1,6 +1,8 @@
 public class Alumnos {
 
-    public void HugoBravoCuesta() {}
+    public void HugoBravoCuesta() {
+        System.out.println("Hola soy Hugo");
+    }
 
     public void IsaacBustamenteMuñoz() {}
 
