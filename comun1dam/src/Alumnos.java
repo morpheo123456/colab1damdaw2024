@@ -40,7 +40,9 @@ public class Alumnos {
 
     public void RamonJavierRomeroMontilla() {}
 
-    public void MarioSalinasMilena() {}
+    public void MarioSalinasMilena() {
+        System.out.println("Hola soy Mario Salinas Milena");
+    }
 
     public void CynthiaSalinasSalinas() {}
 
