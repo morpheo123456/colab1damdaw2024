@@ -44,7 +44,9 @@ public class Alumnos {
 
     public void CynthiaSalinasSalinas() {}
 
-    public void JavierSorianoMoreno() {}
+    public void JavierSorianoMoreno() {
+        System.out.println("Dembelé padre del varsa");
+    }
 
     public void IsmailTbatout() {}
 
