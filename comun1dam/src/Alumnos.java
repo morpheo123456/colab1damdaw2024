@@ -8,7 +8,9 @@ public class Alumnos {
 
     public void LuisPeñaCamacho() {}
 
-    public void VictorHugoPinedaBallesteros() {}
+    public void VictorHugoPinedaBallesteros() {
+        System.out.println("Soy Victor Hugo");
+    }
 
     public void PabloSaavedraGarcia() {}
 
