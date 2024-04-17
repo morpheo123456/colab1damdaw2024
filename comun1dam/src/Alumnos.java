@@ -32,7 +32,15 @@ public class Alumnos {
 
     public void ManuelLosaBarrios() {}
 
-    public void JoseOterosRuiz() {}
+    public void JoseOterosRuiz(double dinero) {
+        if (dinero > 1.50){
+            System.out.println("Puedo comprarme un bocadillo de salchichón con crema de queso.");
+        }else {
+            System.out.println("no tengo dinero hoy no se merienda.");
+        }
+        }
+
+
 
     public void AlvaroPavonMartinez() {}
 

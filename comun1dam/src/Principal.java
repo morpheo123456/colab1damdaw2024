@@ -19,7 +19,7 @@ public class Principal {
         nombres.JesusJimenezPozo();
         nombres.LuciaLaraRojas();
         nombres.ManuelLosaBarrios();
-        nombres.JoseOterosRuiz();
+        nombres.JoseOterosRuiz(2.00);
         nombres.AlvaroPavonMartinez();
         nombres.EmilioReyesVaquero();
         nombres.RamonJavierRomeroMontilla();
