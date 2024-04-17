@@ -4,7 +4,9 @@ public class Alumnos {
 
     public void IsaacBustamenteMuñoz() {}
 
-    public void AlejandroMolinaCañestro() {}
+    public void AlejandroMolinaCañestro() {
+        System.out.println("Soy Alejandro Molina");
+    }
 
     public void LuisPeñaCamacho() {}
 
