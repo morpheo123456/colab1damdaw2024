@@ -37,7 +37,7 @@ public class Alumnos {
     public void AlvaroPavonMartinez() {}
 
     public void EmilioReyesVaquero() {
-        System.out.println("Soy Emilio Reyes.");
+        System.out.println("Me llamo Emilio");
     }
 
     public void RamonJavierRomeroMontilla() {}
