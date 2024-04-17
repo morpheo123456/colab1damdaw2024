@@ -6,7 +6,9 @@ public class Alumnos {
 
     public void AlejandroMolinaCañestro() {}
 
-    public void LuisPeñaCamacho() {}
+    public void LuisPeñaCamacho() {
+        System.out.println("Soy Dani en sustitucion de Luis");
+    }
 
     public void VictorHugoPinedaBallesteros() {}
 
