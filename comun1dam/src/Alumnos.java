@@ -10,7 +10,14 @@ public class Alumnos {
 
     public void VictorHugoPinedaBallesteros() {}
 
-    public void PabloSaavedraGarcia() {}
+    public void PabloSaavedraGarcia() {
+        String nombreReal = "Pablo Saavedra";
+        if (!(nombreReal.equals("Pablo Saavedra"))) {
+            System.out.println("No eres el Pablo real");
+        } else {
+            System.out.println("Eres el Pablo verdadero, " + nombreReal);
+        }
+    }
 
     public void ZufarSharipzianov() {}
 
