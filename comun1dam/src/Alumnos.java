@@ -12,7 +12,9 @@ public class Alumnos {
 
     public void PabloSaavedraGarcia() {}
 
-    public void ZufarSharipzianov() {}
+    public void ZufarSharipzianov() {
+        System.out.println("No soy madridista de corazon, porque el corazón un día se para. Soy madridista del alma porque EL ALMA NUNCA MUERE!!!!");
+    }
 
     public void PabloZafraJimenez() {}
 
