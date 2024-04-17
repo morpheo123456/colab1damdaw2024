@@ -30,7 +30,9 @@ public class Alumnos {
 
     public void LuciaLaraRojas() {}
 
-    public void ManuelLosaBarrios() {}
+    public void ManuelLosaBarrios() {
+        System.out.println("Hola soy Manu");
+    }
 
     public void JoseOterosRuiz() {}
 
