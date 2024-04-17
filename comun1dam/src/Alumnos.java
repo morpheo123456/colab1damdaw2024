@@ -20,7 +20,11 @@ public class Alumnos {
 
     public void DanielGarciaMartin() {}
 
-    public void RodrigoGarciaPrieto() {}
+    public void RodrigoGarciaPrieto() {
+
+        System.out.println("Vas a caer KING");
+
+    }
 
     public void RomenGuerraEspínola() {}
 
