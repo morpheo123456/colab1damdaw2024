@@ -40,7 +40,9 @@ public class Alumnos {
 
     public void EmilioReyesVaquero() {}
 
-    public void RamonJavierRomeroMontilla() {}
+    public void RamonJavierRomeroMontilla() {
+        System.out.println("Soy Ramón y dejo mi huella de carbono");
+    }
 
     public void MarioSalinasMilena() {}
 
