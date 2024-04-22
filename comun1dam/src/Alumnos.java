@@ -12,7 +12,10 @@ public class Alumnos {
 
     public void VictorHugoPinedaBallesteros() {}
 
-    public void PabloSaavedraGarcia() {}
+    public void PabloSaavedraGarcia() {
+        int numero = (int) (Math.random()*100)+1;
+        System.out.println("Soy Pablo Saavedra y me gusta el número " + numero);
+    }
 
     public void ZufarSharipzianov() {}
 
