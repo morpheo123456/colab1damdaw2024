@@ -34,7 +34,13 @@ public class Alumnos {
 
     public void ManuelLosaBarrios() {}
 
-    public void JoseOterosRuiz() {}
+    public void JoseOterosRuiz(String nombre) {
+      if (nombre.equals("Jose Oteros")){
+          System.out.println("nombre correcto");
+        } else{
+          System.out.println("nombre incorrecto");
+      }
+    }
 
     public void AlvaroPavonMartinez() {}
 
