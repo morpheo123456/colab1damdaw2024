@@ -46,7 +46,10 @@ public class Alumnos {
 
     public void CynthiaSalinasSalinas() {}
 
-    public void JavierSorianoMoreno() {}
+    public void JavierSorianoMoreno() {
+        System.out.println
+                ("La pureza no se puede perder nunca cuando uno la lleva dentro de verdad");
+    }
 
     public void IsmailTbatout() {}
 
